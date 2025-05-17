@@ -14,7 +14,7 @@ Este repositorio contiene el contrato inteligente ERC721 para la empresa TransFi
 El contrato permite "mintiar" (crear) tokens no fungibles únicos y asignarlos a direcciones específicas, brindando acceso o beneficios especiales en la plataforma TransFi.
 
 ---
+## Condiciones del NFT
 
-## Referencias
-
-- Basado en la librería OpenZeppelin para contratos ERC721.
+- "Cada dirección solo puede tener un máximo de 5 NFTs (coleccionables) de TransFi", esto es útil para evitar que un solo usuario acumule demasiados NFTs.
+- Esto promueve una distribución justa y evita la acumulación por parte de unos pocos.
